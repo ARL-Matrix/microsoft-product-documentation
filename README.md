@@ -25,7 +25,8 @@ This repository provides:
 | Product | Documentation |
 |----------|---------------|
 | APISangam | /products/APISangam |
-| Matricx | /products/Matricx |
+| Astrickx | /products/Astrickx |
+| DBSangam | /products/DBSangam |
 
 ---
 
